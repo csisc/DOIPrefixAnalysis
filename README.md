@@ -6,4 +6,6 @@ This project collects the [list](https://www.crossref.org/06members/51depositor.
 
 
 ## To cite the work
+Turki, H., Fraumann, G., Hadj Taieb, M. A., & Ben Aouicha, M. (2022). Digital Object Identifiers (DOIs) for whom? 
+The Digital Divide in Scientometrics and the Publishing Industry. *Frontiers in Research Metrics and Analytics* (Forthcoming).
 
